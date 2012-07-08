@@ -13,6 +13,8 @@
 ### 出力
 csv ファイル名は 	{Excel ファイル名}_{シート名}.csv となります。
 sample1.xlsx の Sheet1 をもとにした場合、sample1_Sheet1.csv となります。
+### 対象ファイル
+.xlsx .xlsm .xlsb .xls/
 
 
 
